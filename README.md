@@ -1,3 +1,5 @@
+<img width="1508" height="828" alt="image" src="https://github.com/user-attachments/assets/14b75471-b6d3-496e-8c6d-275c09273b56" />
+
 # 🧠 AI Mental Health Support Chatbot
 
 An **emotion-aware AI mental health support chatbot** built using **Transformers**, **Google Gemini**, and **Streamlit**.  
