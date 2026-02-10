@@ -100,7 +100,7 @@ For deployment, PyTorch is installed dynamically using relaxed constraints.
 git clone https://github.com/aryanmsd/mental-health-chatbot.git
 cd mental-health-chatbot
 
-2️⃣ Create virtual environment
+###2️⃣ Create virtual environment
 pip install -r requirements.txt
 
 3️⃣ Install dependencies
